@@ -10,3 +10,4 @@ certifi
 pydantic
 openai
 psutil
+cryptography
